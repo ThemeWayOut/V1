@@ -893,12 +893,10 @@ textarea,
 }
 
 .addButtonIcon-2CbG1X {
-  color: var(--main-color);
   opacity: 0.7;
   transition: all 0.3s ease-in-out;
 }
 .addButtonIcon-2CbG1X:hover {
-  color: var(--main-color);
   opacity: 1;
 }
 
