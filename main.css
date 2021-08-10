@@ -744,7 +744,7 @@ textarea,
 .icon-3s6X1M {
   padding: 1px;
   color: var(--main-color);
-  filter: drop-shadow(0 0 3px var(--main-color));
+  filter: drop-shadow(0 0 3px var());
 }
 
 .wrapper-3Njo_c .expandedFolderBackground-1cujaW {
