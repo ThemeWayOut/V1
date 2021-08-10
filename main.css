@@ -1,5 +1,5 @@
 @charset "UTF-8";
-/*! No Way Out v6.1.1 by the CV team */
+/*! No Way Out v6.1.1*/
 /*! Powered by DiscordSelectors v0.2.7 */
 /* DEFAULT SETTINGS */
 :root {
@@ -268,7 +268,7 @@ textarea,
   order: 1;
 }
 .typeWindows-1za-n7 > .wordmark-2iDDfm:before {
-  content: "ClearVision";
+  content: "No Way Out";
   color: rgba(255, 255, 255, 0.7);
   font-size: 14px;
   text-shadow: 0 0 3px #000;
